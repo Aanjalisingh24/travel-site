@@ -1,0 +1,13 @@
+body{
+  background-image: url(night-view-3538984_1280.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  display: flex;
+  background-attachment: fixed;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 30px;
+}
